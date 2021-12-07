@@ -25,3 +25,25 @@
     color:rgb(0, 0, 0);
     background-color: aqua;
 }
+#restart{
+    font-size: 22px;
+    color:black;
+}
+#restart:hover{
+    background-color: darkblue;
+    color:white;
+}
+#copy_right_footer{
+    width: 100%;
+    background-color: violet;
+    color: black;
+    line-height: 2;
+    bottom: 0;
+    position:fixed;
+    font-size:20px;
+    text-shadow: 5px 5px 10px blue;
+}
+canvas{
+    border: 5px ridge black ;
+    border-radius: 20px;
+}
